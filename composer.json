@@ -1,0 +1,19 @@
+{
+    "name": "kevin222/test_repo",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kevin222\\TestRepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "kevin@kevin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
